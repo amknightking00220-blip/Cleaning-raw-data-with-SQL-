@@ -1,0 +1,9 @@
+﻿1,      " John@"     ,   Male      ,    9876532100         ,    john.doe@gmail.com
+2,       "priya#"    ,    " X"     ,    4645423102         ,      priya@domain.com
+3,      " GAYAN "    ,   Male      ,     NULL,             ,         "   "
+4,      "ramesh "    ,  male,      ,    8023342312         ,       ramesh.123@gmail.com
+5,      "neha  "     ,  " F "      ,    1234567889         ,       "neha#mail.com "
+6,                   ,  "NULL"     ,    9898989806         ,        " "
+7,     "S\\@rah "    ,  female     ,     123474556         ,     sarah@@example.com
+8,     mohit-        , MALE,NULL   ,                       ,     "mohit\\@domain "
+9,     "Tom "        , Male        ,     84989889890       ,    "tom@gmail.com "
